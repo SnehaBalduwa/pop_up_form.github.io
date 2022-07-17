@@ -1,0 +1,21 @@
+#box{
+    background-color: rgb(154, 136, 182);
+    height: 300px;
+    width: 750px;
+    visibility: hidden;
+}
+
+body{
+    background-color: rgb(160, 106, 106);
+
+}
+
+#box.show{
+
+    visibility: visible; 
+}
+
+.close_popup{
+    margin-top: 5%;
+    margin-left: 100%;
+}
